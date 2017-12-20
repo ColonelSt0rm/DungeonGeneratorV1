@@ -4,6 +4,7 @@
 #include<iostream>
 #include<vector>
 #include"tile.h"
+#include"room.h"
 
 using std::cout;
 using std::cerr;
